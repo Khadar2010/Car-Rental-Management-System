@@ -1,7 +1,7 @@
 # Car-Rental-Management-System
 VB.net summer project on Car rental management System
 
-*CREATE 5 DIFFERENT TABLES*
+*DATABASE TABLES CREATE 5 DIFFERENT TABLES*
 1.CarTbl
 2.CustomerTbl
 3.EmployeeTbl
